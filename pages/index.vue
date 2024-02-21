@@ -1,6 +1,5 @@
 <template>
 <main>
-  <h1>Interactive Rates</h1>
   <InteractiveRating/>
   </main>
 </template>
